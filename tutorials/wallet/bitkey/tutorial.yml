@@ -13,16 +13,19 @@ category: hardware
 
 level: intermediate
 
+license: CC-BY-SA-V4
+
 # Proofreading metadata
 
 original_language: fr
 proofreading:
   - language: fr
-    last_contribution_date: 2025-06-02
+    last_contribution_date: '2025-12-29'
     urgency: 1
     contributor_names:
       - LoicPandul
-    reward: 0.06
+      - nrak10
+    reward: 0.03
   - language: cs
     last_contribution_date:
     urgency: 1
@@ -57,7 +60,7 @@ proofreading:
     last_contribution_date:
     urgency: 1
     contributor_names:
-    reward: 0.15
+    reward: 0.13
   - language: id
     last_contribution_date:
     urgency: 1
@@ -72,7 +75,7 @@ proofreading:
     last_contribution_date:
     urgency: 1
     contributor_names:
-    reward: 0.14
+    reward: 0.13
   - language: nb-NO
     last_contribution_date:
     urgency: 1
@@ -108,7 +111,7 @@ proofreading:
     last_contribution_date:
     urgency: 1
     contributor_names:
-    reward: 0.14
+    reward: 0.13
   - language: zh-Hans
     last_contribution_date:
     urgency: 1
@@ -148,8 +151,13 @@ proofreading:
     last_contribution_date:
     urgency: 1
     contributor_names:
-    reward: 0.14
+    reward: 0.13
   - language: bg
+    last_contribution_date:
+    urgency: 1
+    contributor_names:
+    reward: 0.13
+  - language: th
     last_contribution_date:
     urgency: 1
     contributor_names:

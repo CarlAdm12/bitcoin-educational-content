@@ -15,6 +15,8 @@ tags:
 
 #credit_link:
 
+license: CC-BY-SA-V4
+
 # Proofreading metadata
 original_language: it
 proofreading:
@@ -55,15 +57,16 @@ proofreading:
     contributor_names:
     reward: 6.22
   - language: fr
-    last_contribution_date:
+    last_contribution_date: '2025-12-29'
     urgency: 1
     contributor_names:
-    reward: 4.69
+      - nrak10
+    reward: 2.35
   - language: hi
     last_contribution_date:
     urgency: 1
     contributor_names:
-    reward: 10.82
+    reward: 7.76
   - language: id
     last_contribution_date:
     urgency: 1
@@ -73,7 +76,7 @@ proofreading:
     last_contribution_date:
     urgency: 1
     contributor_names:
-    reward: 9.29
+    reward: 7.76
   - language: nb-NO
     last_contribution_date:
     urgency: 1
@@ -109,7 +112,7 @@ proofreading:
     last_contribution_date:
     urgency: 1
     contributor_names:
-    reward: 9.29
+    reward: 7.76
   - language: zh-Hans
     last_contribution_date:
     urgency: 1
@@ -149,9 +152,14 @@ proofreading:
     last_contribution_date:
     urgency: 1
     contributor_names:
-    reward: 9.29
+    reward: 7.76
   - language: bg
     last_contribution_date:
     urgency: 1
     contributor_names:
     reward: 6.22
+  - language: th
+    last_contribution_date:
+    urgency: 1
+    contributor_names:
+    reward: 7.76

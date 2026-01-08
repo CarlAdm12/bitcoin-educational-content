@@ -13,6 +13,8 @@ tags:
   - DIY-IT
   - good-practice
 
+license: CC-BY-SA-V4
+
 # Proofreading metadata
 original_language: it
 proofreading:
@@ -53,15 +55,16 @@ proofreading:
     contributor_names:
     reward: 4.73
   - language: fr
-    last_contribution_date:
+    last_contribution_date: '2025-12-29'
     urgency: 1
     contributor_names:
-    reward: 3.57
+      - nrak10
+    reward: 1.79
   - language: hi
     last_contribution_date:
     urgency: 1
     contributor_names:
-    reward: 8.21
+    reward: 5.89
   - language: id
     last_contribution_date:
     urgency: 1
@@ -71,7 +74,7 @@ proofreading:
     last_contribution_date:
     urgency: 1
     contributor_names:
-    reward: 7.05
+    reward: 5.89
   - language: nb-NO
     last_contribution_date:
     urgency: 1
@@ -107,7 +110,7 @@ proofreading:
     last_contribution_date:
     urgency: 1
     contributor_names:
-    reward: 7.05
+    reward: 5.89
   - language: zh-Hans
     last_contribution_date:
     urgency: 1
@@ -147,9 +150,14 @@ proofreading:
     last_contribution_date:
     urgency: 1
     contributor_names:
-    reward: 7.05
+    reward: 5.89
   - language: bg
     last_contribution_date:
     urgency: 1
     contributor_names:
     reward: 4.73
+  - language: th
+    last_contribution_date:
+    urgency: 1
+    contributor_names:
+    reward: 5.89
